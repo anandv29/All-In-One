@@ -1,4 +1,4 @@
-# All in one Text generation Project 
+# All in one
 
 ## Live Website Link
 [Click Here](https://genai-pro.streamlit.app/)
